@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LayoutsBadge</string>
+
+    <string-array name="groceryTypes">
+        <item>Dairy</item>
+        <item>Bread</item>
+        <item>Cereal</item>
+        <item>Meat</item>
+        <item>Vegetables</item>
+        <item>Fruits</item>
+        <item>Drink</item>
+    </string-array>
+
+</resources>
